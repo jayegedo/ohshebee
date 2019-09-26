@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quuzeathen.smartconsumer.kr/sitemap.xml
